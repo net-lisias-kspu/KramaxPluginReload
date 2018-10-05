@@ -146,3 +146,8 @@ The file "ReleaseReloadableMonoBehaviour.cs" is excepted from this license and i
 
 This work is a derivative of "KSPPluginReload" by m1nd0 (joopselen@gmail.com) that was distributed under the same license.
 The original work was found at https://github.com/m1ndst0rm/KSPPluginReload.
+
+
+FORUM
+=====
+https://forum.kerbalspaceprogram.com/index.php?/topic/122349-104-kramax-plugin-reload-plugin-development-tool-for-rapid-prototyping/
